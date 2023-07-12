@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shortood Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shortood Github&fontSize=90"/>
 
 ![Shortood's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shortood&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shortood&layout=compact&theme=tokyonight)
